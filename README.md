@@ -1,0 +1,2 @@
+# Web Crawler
+This program scrapes information from a given university's club directory page and outputs a list of all the clubs offered at the university along with their contact information. This program is scaleable to any university's club webpage. To run it, paste the URL of the club directory page (e.g., 'https://msumcmaster.ca/clubs/clubs-directory/') inside the driver.get function in line 11. 
